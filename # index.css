@@ -1,0 +1,9 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-weight: normal; /*lighter, normal, bold*/
+    font-size: 80px;
+    text-transform: uppercase;
+}
